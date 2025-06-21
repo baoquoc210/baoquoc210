@@ -1,31 +1,36 @@
-- 👋 Hi, I’m @baoquoc210  
-  Hey there! I’m @baoquoc210, an aspiring AI Engineer and Data Analyst with a deep passion for crafting Generative AI solutions and turning data into impactful innovations.
+👋 Hi, I’m Bao Quoc | AI Engineer
+ - Welcome to my GitHub profile! I’m Bao Quoc, a final-year Bachelor of Information Technology student at RMIT University, specializing in Artificial Intelligence and Data Analysis. With a strong foundation in back-end development, machine learning, and cloud technologies, I am dedicated to designing and deploying scalable, innovative software solutions.
 
-- 👀 I’m interested in:  
-  - **Programming Languages:** Python, Java, JavaScript  
-  - **Generative AI Frameworks:** TensorFlow, PyTorch, Hugging Face Transformers, Stable Diffusion, GANs (via Keras/TensorFlow), VAE (Variational Autoencoders)  
-  - **AI/ML Libraries:** scikit-learn, NumPy, pandas, OpenAI API, LangChain  
-  - **Frontend Development:** HTML, CSS, JavaScript, ReactJS  
-  - **Backend Development:** Node.js (Fastify, Nest.js), Java (Javalin, Spring Boot, Thymeleaf)  
-  - **Databases:** SQL, MongoDB  
-  - **Cloud Platforms:** AWS  
-  - **Visualization:** Matplotlib, Seaborn, Tableau  
-  I’m obsessed with building creative AI systems—like text generators, image synthesizers, and beyond—while blending them with sleek web applications.
-
-- 🌱 I’m currently learning:  
-  Full-stack development with ReactJS and Node.js to deploy Generative AI models as interactive web tools, powered by frameworks like Nest.js and Spring Boot.
-
-- 💞️ I’m looking to collaborate on:  
-  Projects involving Generative AI (e.g., text-to-image models, chatbots, or synthetic data generation), full-stack apps with AI integration, or open-source initiatives that push the limits of creativity and code.
-
-- 📫 How to reach me:  
-  Secret hahahahahahha
-
-- 😄 Pronouns:  
-  He/Him  
-
-- ⚡ Fun fact:  
-  I trained a GAN to generate psychedelic artwork—and now it’s my personal wallpaper factory!
+🧠 Skills Developed:
+- I possess a comprehensive skill set that enables me to build production-ready systems, from machine learning pipelines to back-end applications and cloud-native architectures. My expertise includes:
+- **Back-End Development**
+  - **Languages & Frameworks:** Java (Spring Boot), Python (FastAPI, Flask), Node.js for scalable microservices.
+  - **API Development:** RESTful APIs with JWT, OAuth2, and credit-based usage tracking.
+  - **Authentication & Security:** Role-based access control, secure endpoints
+  - **Databases:** PostgreSQL (SQL), MongoDB (NoSQL) for data management and usage tracking.
+- **AI/Machine Learning**
+  - **Model Training & Fine-Tuning:** TensorFlow, PyTorch, Scikit-learn, Hugging Face Transformers.
+  - **Generative AI:** RAG, prompt engineering, LangChain, OpenAI APIs.
+  - **MLOps:** MLflow, DVC, Azure ML pipelines.
+  - **R Programming:** Caret, dplyr for ML migrations.
+- **Cloud & DevOps**
+  - **Platforms:** Azure (ML, AKS, Cognitive Services, Data Factory, Co-pilot), AWS (SageMaker, ECS, S3, CloudFormation, IAM), GCP (BigQuery).  
+  - **Containerization:** Docker, Kubernetes (AKS).
+  - **Infrastructure as Code:**  Terraform, AWS CloudFormation.
+  - **CI/CD:** Azure DevOps, GitHub Actions, testable code (pytest, JUnit).
+- **Web Development**
+  - **Frontend:** React, Next.js, Tailwind CSS, Webpack.
+  - **Backend:** Java Spring Boot, FastAPI, Django, Node.js Express, Prisma.
+- **Data Engineering**
+  - **Pipelines:** Databricks PySpark, Delta Lake, Azure Data Factory.
+  - **ETL:** SQL, Python (Pandas, NumPy).
+-**Other Technical Skills**
+  - **Microservices:** Spring Cloud, FastAPI, gRPC, Kafka.
+  - **Software Engineering Principles:** Data structures, algorithms.
+- **Soft Skills**
+  - **Self-Starter:**  Rapid learning (e.g., AWS ECS, IAM), independent project leadership.
+  - **Communication:** Stakeholder engagement, clear documentation.
+  - **Collaboration:** Agile workflows, global team coordination.
 
 <!---
 baoquoc210/baoquoc210 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
